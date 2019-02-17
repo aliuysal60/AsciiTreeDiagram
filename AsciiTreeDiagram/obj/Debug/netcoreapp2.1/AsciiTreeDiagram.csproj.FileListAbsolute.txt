@@ -1,0 +1,11 @@
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\bin\Debug\netcoreapp2.1\AsciiTreeDiagram.deps.json
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\bin\Debug\netcoreapp2.1\AsciiTreeDiagram.runtimeconfig.json
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\bin\Debug\netcoreapp2.1\AsciiTreeDiagram.runtimeconfig.dev.json
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\bin\Debug\netcoreapp2.1\AsciiTreeDiagram.dll
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\bin\Debug\netcoreapp2.1\AsciiTreeDiagram.pdb
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\obj\Debug\netcoreapp2.1\AsciiTreeDiagram.csprojAssemblyReference.cache
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\obj\Debug\netcoreapp2.1\AsciiTreeDiagram.csproj.CoreCompileInputs.cache
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\obj\Debug\netcoreapp2.1\AsciiTreeDiagram.AssemblyInfoInputs.cache
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\obj\Debug\netcoreapp2.1\AsciiTreeDiagram.AssemblyInfo.cs
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\obj\Debug\netcoreapp2.1\AsciiTreeDiagram.dll
+C:\Users\auysa\Desktop\Ascii\AsciiTreeDiagram\obj\Debug\netcoreapp2.1\AsciiTreeDiagram.pdb
